@@ -5,7 +5,7 @@
     "slug": "my-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "time": 241
+    "time": 198
   },
   {
     "name": "Ylight Server",
@@ -13,14 +13,14 @@
     "slug": "ylight-server",
     "status": "up",
     "uptime": "100.00%",
-    "time": 453
+    "time": 428
   },
   {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "Broke",
+    "url": "https://hishivamm.com",
+    "slug": "broke",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "9.10%",
     "time": 0
   },
   {
@@ -28,7 +28,7 @@
     "url": "$SECRET_SITE",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "99.99%",
+    "uptime": "99.98%",
     "time": 0
   }
 ]
