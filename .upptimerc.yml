@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: ShivamJoker # Your GitHub username
+repo: Monitor # Your Github repository name
 
 # Add your sites here
 sites:
@@ -8,8 +8,6 @@ sites:
     url: https://creativeshi.com
   - name: Ylight Server
     url: https://server.ylight.xyz
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Broken Site
     url: https://thissitedoesnotexist.com
   - name: Secret Site
