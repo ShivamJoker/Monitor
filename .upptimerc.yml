@@ -8,8 +8,8 @@ sites:
     url: https://creativeshi.com
   - name: Ylight Server
     url: https://server.ylight.xyz
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
+  - name: Broke
+    url: https://hishivamm.com
   - name: Secret Site
     url: $SECRET_SITE
 
