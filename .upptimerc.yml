@@ -4,10 +4,10 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: MyPortfolio
+    url: https://creativeshi.com
+  - name: Ylight Server
+    url: https://server.ylight.xyz
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
