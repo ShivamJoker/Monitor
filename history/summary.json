@@ -1,42 +1,42 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "99.99%",
-    "time": 87
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "MyPortfolio",
+    "url": "https://creativeshi.com",
+    "slug": "my-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "time": 122
+    "time": 290
+  },
+  {
+    "name": "Ylight Server",
+    "url": "https://server.ylight.xyz",
+    "slug": "ylight-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 450
   },
   {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "99.83%",
-    "time": 349
+    "uptime": "100.00%",
+    "time": 168
   },
   {
     "name": "Broken Site",
     "url": "https://thissitedoesnotexist.com",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "0.00%",
+    "uptime": "100.00%",
     "time": 0
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
     "slug": "secret-site",
-    "status": "up",
-    "uptime": "99.98%",
-    "time": 48
+    "status": "down",
+    "uptime": "100.00%",
+    "time": 0
   }
 ]
