@@ -5,7 +5,7 @@
     "slug": "my-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "time": 198
+    "time": 204
   },
   {
     "name": "Ylight Server",
@@ -13,14 +13,14 @@
     "slug": "ylight-server",
     "status": "up",
     "uptime": "100.00%",
-    "time": 428
+    "time": 433
   },
   {
     "name": "Broke",
     "url": "https://hishivamm.com",
     "slug": "broke",
     "status": "down",
-    "uptime": "8.44%",
+    "uptime": "0.00%",
     "time": 0
   },
   {
