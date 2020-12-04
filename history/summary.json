@@ -5,7 +5,15 @@
     "slug": "my-portfolio",
     "status": "up",
     "uptime": "100.00%",
-    "time": 174
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 180,
+    "timeDay": 234,
+    "timeWeek": 180,
+    "timeMonth": 180,
+    "timeYear": 180
   },
   {
     "name": "Ylight Server",
@@ -13,7 +21,15 @@
     "slug": "ylight-server",
     "status": "up",
     "uptime": "100.00%",
-    "time": 396
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 409,
+    "timeDay": 515,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409
   },
   {
     "name": "Broke",
@@ -21,7 +37,15 @@
     "slug": "broke",
     "status": "down",
     "uptime": "0.00%",
-    "time": 0
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   },
   {
     "name": "Secret Site",
@@ -29,6 +53,14 @@
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.98%",
-    "time": 0
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0
   }
 ]
