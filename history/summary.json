@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 180,
-    "timeDay": 234,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180
+    "time": 185,
+    "timeDay": 235,
+    "timeWeek": 174,
+    "timeMonth": 185,
+    "timeYear": 185
   },
   {
     "name": "Ylight Server",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 409,
-    "timeDay": 515,
-    "timeWeek": 409,
-    "timeMonth": 409,
-    "timeYear": 409
+    "time": 407,
+    "timeDay": 394,
+    "timeWeek": 392,
+    "timeMonth": 407,
+    "timeYear": 407
   },
   {
     "name": "Broke",
@@ -54,7 +54,7 @@
     "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 0,
