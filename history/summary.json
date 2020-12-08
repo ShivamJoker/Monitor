@@ -2,6 +2,7 @@
   {
     "name": "MyPortfolio",
     "url": "https://creativeshi.com",
+    "icon": "https://favicons.githubusercontent.com/creativeshi.com",
     "slug": "my-portfolio",
     "status": "up",
     "uptime": "100.00%",
@@ -9,15 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
+    "time": 197,
     "timeDay": 242,
-    "timeWeek": 204,
-    "timeMonth": 194,
-    "timeYear": 194
+    "timeWeek": 217,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ylight Server",
     "url": "https://server.ylight.xyz",
+    "icon": "https://favicons.githubusercontent.com/server.ylight.xyz",
     "slug": "ylight-server",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 424,
-    "timeDay": 548,
-    "timeWeek": 419,
-    "timeMonth": 424,
-    "timeYear": 424
+    "time": 422,
+    "timeDay": 400,
+    "timeWeek": 427,
+    "timeMonth": 422,
+    "timeYear": 422,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broke",
     "url": "https://hishivamm.com",
+    "icon": "https://favicons.githubusercontent.com/hishivamm.com",
     "slug": "broke",
     "status": "down",
     "uptime": "0.00%",
@@ -45,11 +50,26 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-12-08": 34,
+      "2020-12-07": 1440,
+      "2020-12-06": 1440,
+      "2020-12-05": 1440,
+      "2020-12-04": 1440,
+      "2020-12-03": 1440,
+      "2020-12-02": 1440,
+      "2020-12-01": 1440,
+      "2020-11-30": 1440,
+      "2020-11-29": 1440,
+      "2020-11-28": 1440,
+      "2020-11-27": 783
+    }
   },
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
     "uptime": "99.98%",
@@ -61,6 +81,9 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 0
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2020-11-27": 37
+    }
   }
 ]
