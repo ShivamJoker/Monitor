@@ -4,18 +4,20 @@
     "url": "https://creativeshi.com",
     "icon": "https://favicons.githubusercontent.com/creativeshi.com",
     "slug": "my-portfolio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 170,
-    "timeWeek": 185,
-    "timeMonth": 279,
+    "timeWeek": 181,
+    "timeMonth": 275,
     "timeYear": 319,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-06": 0
+    }
   },
   {
     "name": "Ylight Server",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 411,
-    "timeDay": 380,
-    "timeWeek": 516,
-    "timeMonth": 437,
-    "timeYear": 411,
+    "time": 410,
+    "timeDay": 353,
+    "timeWeek": 506,
+    "timeMonth": 436,
+    "timeYear": 410,
     "dailyMinutesDown": {}
   }
 ]
