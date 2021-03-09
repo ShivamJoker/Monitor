@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/creativeshi.com",
     "slug": "my-portfolio",
     "status": "down",
-    "uptime": "98.95%",
+    "uptime": "97.98%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.95%",
-    "uptimeMonth": "96.54%",
-    "uptimeYear": "98.95%",
+    "uptimeWeek": "70.67%",
+    "uptimeMonth": "93.25%",
+    "uptimeYear": "97.98%",
     "time": 319,
     "timeDay": 0,
-    "timeWeek": 184,
+    "timeWeek": 166,
     "timeMonth": 277,
     "timeYear": 319,
     "dailyMinutesDown": {
-      "2021-03-08": 35,
+      "2021-03-09": 34,
+      "2021-03-08": 1440,
       "2021-03-07": 1440,
       "2021-03-06": 42
     }
@@ -33,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 409,
-    "timeDay": 329,
-    "timeWeek": 506,
-    "timeMonth": 432,
+    "timeDay": 447,
+    "timeWeek": 513,
+    "timeMonth": 433,
     "timeYear": 409,
     "dailyMinutesDown": {}
   }
