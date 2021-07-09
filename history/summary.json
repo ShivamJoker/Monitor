@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/creativeshi.com",
     "slug": "my-portfolio",
     "status": "up",
-    "uptime": "98.21%",
+    "uptime": "98.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.21%",
-    "time": 350,
-    "timeDay": 693,
-    "timeWeek": 603,
-    "timeMonth": 383,
-    "timeYear": 350,
+    "uptimeYear": "98.22%",
+    "time": 351,
+    "timeDay": 500,
+    "timeWeek": 559,
+    "timeMonth": 386,
+    "timeYear": 351,
     "dailyMinutesDown": {
       "2021-03-10": 1397,
       "2021-03-09": 1440,
@@ -28,17 +28,19 @@
     "url": "https://server.ylight.xyz",
     "icon": "https://favicons.githubusercontent.com/server.ylight.xyz",
     "slug": "ylight-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 417,
-    "timeDay": 560,
-    "timeWeek": 503,
+    "timeDay": 0,
+    "timeWeek": 520,
     "timeMonth": 447,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-09": 0
+    }
   }
 ]
