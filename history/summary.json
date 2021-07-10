@@ -13,7 +13,7 @@
     "time": 351,
     "timeDay": 500,
     "timeWeek": 559,
-    "timeMonth": 386,
+    "timeMonth": 390,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2021-03-10": 1397,
@@ -29,18 +29,19 @@
     "icon": "https://favicons.githubusercontent.com/server.ylight.xyz",
     "slug": "ylight-server",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "93.99%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.97%",
     "time": 417,
     "timeDay": 0,
     "timeWeek": 520,
-    "timeMonth": 447,
+    "timeMonth": 445,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2021-07-09": 0
+      "2021-07-10": 43,
+      "2021-07-09": 44
     }
   }
 ]
