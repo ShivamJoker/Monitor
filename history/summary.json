@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.81%",
-    "time": 448,
-    "timeDay": 678,
-    "timeWeek": 386,
-    "timeMonth": 622,
+    "time": 449,
+    "timeDay": 552,
+    "timeWeek": 398,
+    "timeMonth": 635,
     "timeYear": 480,
     "dailyMinutesDown": {
       "2022-03-14": 1385,
@@ -33,18 +33,19 @@
     "icon": "https://favicons.githubusercontent.com/server.ylight.xyz",
     "slug": "ylight-server",
     "status": "down",
-    "uptime": "55.09%",
+    "uptime": "55.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "31.23%",
-    "time": 434,
+    "time": 433,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2022-08-04": 15,
+      "2022-08-05": 17,
+      "2022-08-04": 1440,
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
@@ -294,8 +295,7 @@
       "2021-08-09": 1440,
       "2021-08-08": 1440,
       "2021-08-07": 1440,
-      "2021-08-06": 1440,
-      "2021-08-05": 1440
+      "2021-08-06": 1440
     }
   }
 ]
