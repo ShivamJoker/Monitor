@@ -9,15 +9,14 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.47%",
     "time": 543,
-    "timeDay": 559,
-    "timeWeek": 406,
-    "timeMonth": 379,
-    "timeYear": 569,
+    "timeDay": 196,
+    "timeWeek": 413,
+    "timeMonth": 364,
+    "timeYear": 568,
     "dailyMinutesDown": {
-      "2022-03-14": 1385,
-      "2022-03-13": 1440
+      "2022-03-14": 1385
     }
   },
   {
@@ -26,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.ylight.xyz.ico",
     "slug": "ylight-server",
     "status": "down",
-    "uptime": "40.57%",
+    "uptime": "40.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 439,
+    "time": 437,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-12": 15,
+      "2023-03-13": 14,
+      "2023-03-12": 1440,
       "2023-03-11": 1440,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
@@ -400,8 +400,7 @@
       "2022-03-17": 1440,
       "2022-03-16": 1440,
       "2022-03-15": 1440,
-      "2022-03-14": 1440,
-      "2022-03-13": 1440
+      "2022-03-14": 1440
     }
   }
 ]
