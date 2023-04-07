@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativeshi.com.ico",
     "slug": "my-portfolio",
     "status": "up",
-    "uptime": "98.60%",
+    "uptime": "98.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 546,
-    "timeDay": 241,
-    "timeWeek": 340,
-    "timeMonth": 380,
-    "timeYear": 557,
+    "timeDay": 256,
+    "timeWeek": 311,
+    "timeMonth": 369,
+    "timeYear": 554,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.ylight.xyz.ico",
     "slug": "ylight-server",
     "status": "down",
-    "uptime": "39.39%",
+    "uptime": "39.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 425,
+    "time": 417,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-06": 13,
+      "2023-04-07": 12,
+      "2023-04-06": 1440,
       "2023-04-05": 1440,
       "2023-04-04": 1440,
       "2023-04-03": 1440,
@@ -397,8 +398,7 @@
       "2022-04-11": 1440,
       "2022-04-10": 1440,
       "2022-04-09": 1440,
-      "2022-04-08": 1440,
-      "2022-04-07": 1440
+      "2022-04-08": 1440
     }
   }
 ]
