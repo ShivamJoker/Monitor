@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativeshi.com.ico",
     "slug": "my-portfolio",
     "status": "up",
-    "uptime": "98.69%",
+    "uptime": "98.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 538,
-    "timeDay": 214,
-    "timeWeek": 371,
-    "timeMonth": 553,
-    "timeYear": 535,
+    "time": 536,
+    "timeDay": 226,
+    "timeWeek": 373,
+    "timeMonth": 555,
+    "timeYear": 532,
     "dailyMinutesDown": {}
   },
   {
@@ -23,7 +23,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.ylight.xyz.ico",
     "slug": "ylight-server",
     "status": "down",
-    "uptime": "36.86%",
+    "uptime": "36.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-04": 16,
+      "2023-06-05": 15,
+      "2023-06-04": 1440,
       "2023-06-03": 1440,
       "2023-06-02": 1440,
       "2023-06-01": 1440,
@@ -397,8 +398,7 @@
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
-      "2022-06-06": 1440,
-      "2022-06-05": 1440
+      "2022-06-06": 1440
     }
   }
 ]
