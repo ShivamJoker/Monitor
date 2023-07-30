@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 321,
+    "timeDay": 214,
     "timeWeek": 267,
-    "timeMonth": 332,
+    "timeMonth": 337,
     "timeYear": 488,
     "dailyMinutesDown": {}
   },
@@ -24,10 +24,10 @@
     "slug": "ylight-server",
     "status": "up",
     "uptime": "34.74%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
-    "uptimeYear": "0.00%",
+    "uptimeDay": "4.94%",
+    "uptimeWeek": "0.71%",
+    "uptimeMonth": "1.54%",
+    "uptimeYear": "0.01%",
     "time": 59,
     "timeDay": 59,
     "timeWeek": 59,
@@ -397,8 +397,7 @@
       "2022-08-03": 1440,
       "2022-08-02": 1440,
       "2022-08-01": 1440,
-      "2022-07-31": 1440,
-      "2022-07-30": 1440
+      "2022-07-31": 1440
     }
   }
 ]
