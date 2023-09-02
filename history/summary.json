@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 498,
-    "timeDay": 487,
-    "timeWeek": 325,
-    "timeMonth": 303,
-    "timeYear": 459,
+    "timeDay": 378,
+    "timeWeek": 360,
+    "timeMonth": 300,
+    "timeYear": 458,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/server.ylight.xyz.ico",
     "slug": "ylight-server",
     "status": "down",
-    "uptime": "34.00%",
+    "uptime": "33.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.51%",
+    "uptimeMonth": "1.23%",
     "uptimeYear": "1.10%",
     "time": 94,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 80,
+    "timeMonth": 0,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2023-09-01": 14,
+      "2023-09-02": 12,
+      "2023-09-01": 1440,
       "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
@@ -394,8 +395,7 @@
       "2022-09-06": 1440,
       "2022-09-05": 1440,
       "2022-09-04": 1440,
-      "2022-09-03": 1440,
-      "2022-09-02": 1440
+      "2022-09-03": 1440
     }
   }
 ]
