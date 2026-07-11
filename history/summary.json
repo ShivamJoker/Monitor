@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/creativeshi.com.ico",
     "slug": "my-portfolio",
     "status": "up",
-    "uptime": "99.41%",
+    "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 113,
-    "timeWeek": 178,
-    "timeMonth": 163,
+    "timeDay": 165,
+    "timeWeek": 175,
+    "timeMonth": 161,
     "timeYear": 202,
     "dailyMinutesDown": {}
   },
@@ -34,7 +34,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-10": 176,
+      "2026-07-11": 153,
+      "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
@@ -397,8 +398,7 @@
       "2025-07-15": 1440,
       "2025-07-14": 1440,
       "2025-07-13": 1440,
-      "2025-07-12": 1440,
-      "2025-07-11": 1440
+      "2025-07-12": 1440
     }
   }
 ]
